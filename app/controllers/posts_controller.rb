@@ -1,0 +1,2 @@
+def PostsController < ApplicationController
+end
